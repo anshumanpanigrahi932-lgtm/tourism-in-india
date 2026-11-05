@@ -1,0 +1,553 @@
+Year,State,Region,Transport_Mode,Domestic_Tourists,Foreign_Tourists,Revenue_Crore,Avg_Stay_Days,Hotel_Occupancy,Top_Attraction,Latitude,Longitude
+2019,Rajasthan,North,Air,9377407,687412,5741.81,3.25,69.4,Amber Fort,26.91,75.79
+2019,Rajasthan,North,Train,14571784,291323,6778.26,3.3,69.5,Amber Fort,26.91,75.79
+2019,Rajasthan,North,Road,26143738,696898,12574.25,3.25,69.2,Amber Fort,26.91,75.79
+2019,Rajasthan,North,Water,516503,12047,232.98,3.34,69.1,Amber Fort,26.91,75.79
+2020,Rajasthan,North,Air,3352684,87007,1315.98,2.73,39.9,Amber Fort,26.91,75.79
+2020,Rajasthan,North,Train,5048605,35732,1704.44,2.68,39.0,Amber Fort,26.91,75.79
+2020,Rajasthan,North,Road,8793111,82980,3112.22,2.76,39.2,Amber Fort,26.91,75.79
+2020,Rajasthan,North,Water,176194,1454,59.19,2.66,39.4,Amber Fort,26.91,75.79
+2021,Rajasthan,North,Air,4996579,78407,1941.47,2.84,41.2,Amber Fort,26.91,75.79
+2021,Rajasthan,North,Train,7532873,32238,2699.04,2.77,41.1,Amber Fort,26.91,75.79
+2021,Rajasthan,North,Road,12960107,73953,4539.58,2.81,41.1,Amber Fort,26.91,75.79
+2021,Rajasthan,North,Water,253693,1266,93.69,2.8,41.5,Amber Fort,26.91,75.79
+2022,Rajasthan,North,Air,8047495,308303,3951.27,3.09,57.7,Amber Fort,26.91,75.79
+2022,Rajasthan,North,Train,12119106,126624,4694.21,3.05,58.2,Amber Fort,26.91,75.79
+2022,Rajasthan,North,Road,19089110,265931,7873.11,3.13,57.9,Amber Fort,26.91,75.79
+2022,Rajasthan,North,Water,383408,4673,156.34,3.13,58.0,Amber Fort,26.91,75.79
+2023,Rajasthan,North,Air,10597822,574491,5737.38,3.18,66.3,Amber Fort,26.91,75.79
+2023,Rajasthan,North,Train,17319356,256051,7278.36,3.14,66.1,Amber Fort,26.91,75.79
+2023,Rajasthan,North,Road,27518088,542441,11377.83,3.09,65.7,Amber Fort,26.91,75.79
+2023,Rajasthan,North,Water,569637,9825,236.79,3.18,65.8,Amber Fort,26.91,75.79
+2024,Rajasthan,North,Air,11570374,825809,7364.29,3.28,69.0,Amber Fort,26.91,75.79
+2024,Rajasthan,North,Train,18018401,350733,8409.35,3.34,68.4,Amber Fort,26.91,75.79
+2024,Rajasthan,North,Road,28901048,750089,13991.79,3.34,68.9,Amber Fort,26.91,75.79
+2024,Rajasthan,North,Water,602585,13684,285.35,3.45,68.8,Amber Fort,26.91,75.79
+2019,Delhi,North,Air,6599194,1246939,4760.96,2.49,72.2,Red Fort,28.61,77.21
+2019,Delhi,North,Train,9671579,498402,3912.14,2.57,72.3,Red Fort,28.61,77.21
+2019,Delhi,North,Road,16995411,1167759,7491.28,2.49,72.4,Red Fort,28.61,77.21
+2019,Delhi,North,Water,300917,18091,136.2,2.64,73.2,Red Fort,28.61,77.21
+2020,Delhi,North,Air,2437224,139126,890.86,2.07,36.4,Red Fort,28.61,77.21
+2020,Delhi,North,Train,3731590,58094,1001.43,1.98,36.3,Red Fort,28.61,77.21
+2020,Delhi,North,Road,6156841,127802,1761.85,2.16,36.4,Red Fort,28.61,77.21
+2020,Delhi,North,Water,127404,2314,36.96,2.04,36.0,Red Fort,28.61,77.21
+2021,Delhi,North,Air,3409049,120402,1045.41,2.03,47.6,Red Fort,28.61,77.21
+2021,Delhi,North,Train,4686247,45139,1240.33,2.01,47.5,Red Fort,28.61,77.21
+2021,Delhi,North,Road,8560694,109946,2198.46,2.04,48.3,Red Fort,28.61,77.21
+2021,Delhi,North,Water,168426,1892,44.7,2.02,47.9,Red Fort,28.61,77.21
+2022,Delhi,North,Air,6140891,501353,2723.78,2.47,61.1,Red Fort,28.61,77.21
+2022,Delhi,North,Train,9710484,216213,3233.39,2.37,61.0,Red Fort,28.61,77.21
+2022,Delhi,North,Road,15167719,450298,5143.4,2.35,60.8,Red Fort,28.61,77.21
+2022,Delhi,North,Water,285047,7404,96.55,2.39,60.5,Red Fort,28.61,77.21
+2023,Delhi,North,Air,7241728,1030381,4310.29,2.45,71.0,Red Fort,28.61,77.21
+2023,Delhi,North,Train,12073801,468520,4426.28,2.47,70.6,Red Fort,28.61,77.21
+2023,Delhi,North,Road,19321651,999694,7853.25,2.51,70.9,Red Fort,28.61,77.21
+2023,Delhi,North,Water,382683,17324,157.68,2.46,70.5,Red Fort,28.61,77.21
+2024,Delhi,North,Air,7755114,1201726,4634.14,2.35,73.3,Red Fort,28.61,77.21
+2024,Delhi,North,Train,11712423,494985,4297.37,2.38,74.1,Red Fort,28.61,77.21
+2024,Delhi,North,Road,21729881,1224453,8576.08,2.33,73.1,Red Fort,28.61,77.21
+2024,Delhi,North,Water,426498,21028,164.89,2.31,73.5,Red Fort,28.61,77.21
+2019,Uttar Pradesh,North,Air,42841357,1430691,17145.71,2.39,59.3,Taj Mahal,26.85,80.95
+2019,Uttar Pradesh,North,Train,54340227,494917,17265.39,2.54,59.1,Taj Mahal,26.85,80.95
+2019,Uttar Pradesh,North,Road,91489710,1111021,29171.01,2.49,59.5,Taj Mahal,26.85,80.95
+2019,Uttar Pradesh,North,Water,4313817,45837,1355.7,2.45,59.0,Taj Mahal,26.85,80.95
+2020,Uttar Pradesh,North,Air,13588084,155951,3821.49,2.15,34.2,Taj Mahal,26.85,80.95
+2020,Uttar Pradesh,North,Train,20920939,65484,5588.35,2.15,35.1,Taj Mahal,26.85,80.95
+2020,Uttar Pradesh,North,Road,33445662,139584,9338.48,2.17,34.2,Taj Mahal,26.85,80.95
+2020,Uttar Pradesh,North,Water,1378426,5033,353.91,2.21,34.5,Taj Mahal,26.85,80.95
+2021,Uttar Pradesh,North,Air,19082949,114095,5534.15,2.33,39.8,Taj Mahal,26.85,80.95
+2021,Uttar Pradesh,North,Train,29592594,48254,8426.04,2.41,39.1,Taj Mahal,26.85,80.95
+2021,Uttar Pradesh,North,Road,51177912,111268,14460.67,2.34,39.9,Taj Mahal,26.85,80.95
+2021,Uttar Pradesh,North,Water,2067117,3932,580.53,2.25,39.9,Taj Mahal,26.85,80.95
+2022,Uttar Pradesh,North,Air,36347999,485279,11899.1,2.52,54.3,Taj Mahal,26.85,80.95
+2022,Uttar Pradesh,North,Train,51810554,188650,15771.23,2.52,54.1,Taj Mahal,26.85,80.95
+2022,Uttar Pradesh,North,Road,89625206,435119,27840.78,2.42,54.0,Taj Mahal,26.85,80.95
+2022,Uttar Pradesh,North,Water,3962220,16831,1170.68,2.49,53.6,Taj Mahal,26.85,80.95
+2023,Uttar Pradesh,North,Air,49007488,1121482,17783.9,2.65,63.0,Taj Mahal,26.85,80.95
+2023,Uttar Pradesh,North,Train,69839581,435873,23917.49,2.64,62.2,Taj Mahal,26.85,80.95
+2023,Uttar Pradesh,North,Road,103469440,861012,35322.43,2.61,62.3,Taj Mahal,26.85,80.95
+2023,Uttar Pradesh,North,Water,4568172,33261,1560.99,2.73,62.7,Taj Mahal,26.85,80.95
+2024,Uttar Pradesh,North,Air,47530646,1443587,18140.05,2.79,63.5,Taj Mahal,26.85,80.95
+2024,Uttar Pradesh,North,Train,59160178,490035,21025.65,2.69,63.6,Taj Mahal,26.85,80.95
+2024,Uttar Pradesh,North,Road,106692779,1178342,38909.1,2.73,63.4,Taj Mahal,26.85,80.95
+2024,Uttar Pradesh,North,Water,4620016,44646,1630.02,2.68,63.3,Taj Mahal,26.85,80.95
+2019,Punjab,North,Air,4294002,87493,1012.47,1.74,59.5,Golden Temple,31.15,75.34
+2019,Punjab,North,Train,6961620,38686,1533.04,1.74,59.8,Golden Temple,31.15,75.34
+2019,Punjab,North,Road,10400896,77064,2269.08,1.81,59.4,Golden Temple,31.15,75.34
+2019,Punjab,North,Water,209260,1356,41.93,1.77,59.4,Golden Temple,31.15,75.34
+2020,Punjab,North,Air,1432222,10544,256.89,1.33,28.8,Golden Temple,31.15,75.34
+2020,Punjab,North,Train,2242579,4502,384.37,1.38,29.6,Golden Temple,31.15,75.34
+2020,Punjab,North,Road,3977735,10649,698.44,1.41,29.7,Golden Temple,31.15,75.34
+2020,Punjab,North,Water,80690,189,13.94,1.43,29.3,Golden Temple,31.15,75.34
+2021,Punjab,North,Air,2221548,8834,398.7,1.48,36.7,Golden Temple,31.15,75.34
+2021,Punjab,North,Train,3204525,3475,556.88,1.51,37.4,Golden Temple,31.15,75.34
+2021,Punjab,North,Road,5381011,7781,999.6,1.55,37.5,Golden Temple,31.15,75.34
+2021,Punjab,North,Water,113885,144,22.16,1.54,37.6,Golden Temple,31.15,75.34
+2022,Punjab,North,Air,3527793,31290,675.97,1.58,48.1,Golden Temple,31.15,75.34
+2022,Punjab,North,Train,5438469,13155,1052.62,1.56,47.9,Golden Temple,31.15,75.34
+2022,Punjab,North,Road,9600155,30963,1894.24,1.53,48.2,Golden Temple,31.15,75.34
+2022,Punjab,North,Water,202493,571,37.51,1.53,48.5,Golden Temple,31.15,75.34
+2023,Punjab,North,Air,4669515,68671,1242.22,1.95,57.3,Golden Temple,31.15,75.34
+2023,Punjab,North,Train,6600179,26472,1592.76,2.03,58.0,Golden Temple,31.15,75.34
+2023,Punjab,North,Road,12511146,66906,3023.3,1.94,57.7,Golden Temple,31.15,75.34
+2023,Punjab,North,Water,235969,1104,55.19,1.95,57.4,Golden Temple,31.15,75.34
+2024,Punjab,North,Air,5120854,79471,1167.16,1.6,56.9,Golden Temple,31.15,75.34
+2024,Punjab,North,Train,7949238,33645,1600.87,1.63,56.8,Golden Temple,31.15,75.34
+2024,Punjab,North,Road,13360926,75399,2803.04,1.63,57.1,Golden Temple,31.15,75.34
+2024,Punjab,North,Water,300467,1483,59.46,1.65,57.6,Golden Temple,31.15,75.34
+2019,Himachal Pradesh,North,Air,3463171,188920,2372.8,4.19,64.5,Shimla Mall Road,31.1,77.17
+2019,Himachal Pradesh,North,Train,5165160,76845,2896.33,4.14,64.3,Shimla Mall Road,31.1,77.17
+2019,Himachal Pradesh,North,Road,8344183,165521,4738.62,4.2,63.6,Shimla Mall Road,31.1,77.17
+2019,Himachal Pradesh,North,Water,179179,3110,100.03,4.06,63.7,Shimla Mall Road,31.1,77.17
+2020,Himachal Pradesh,North,Air,1034727,18851,462.74,3.36,33.7,Shimla Mall Road,31.1,77.17
+2020,Himachal Pradesh,North,Train,1772669,8808,729.24,3.34,34.1,Shimla Mall Road,31.1,77.17
+2020,Himachal Pradesh,North,Road,3404515,22555,1464.01,3.35,34.3,Shimla Mall Road,31.1,77.17
+2020,Himachal Pradesh,North,Water,62687,363,25.63,3.38,34.6,Shimla Mall Road,31.1,77.17
+2021,Himachal Pradesh,North,Air,1659219,16463,773.69,3.67,41.6,Shimla Mall Road,31.1,77.17
+2021,Himachal Pradesh,North,Train,2274135,6154,971.05,3.57,41.8,Shimla Mall Road,31.1,77.17
+2021,Himachal Pradesh,North,Road,4157976,15002,1752.76,3.62,41.5,Shimla Mall Road,31.1,77.17
+2021,Himachal Pradesh,North,Water,78817,248,35.94,3.47,41.4,Shimla Mall Road,31.1,77.17
+2022,Himachal Pradesh,North,Air,2635195,64528,1481.96,3.91,54.9,Shimla Mall Road,31.1,77.17
+2022,Himachal Pradesh,North,Train,3971647,26523,1972.75,3.89,55.4,Shimla Mall Road,31.1,77.17
+2022,Himachal Pradesh,North,Road,6740377,60018,3336.64,3.86,54.5,Shimla Mall Road,31.1,77.17
+2022,Himachal Pradesh,North,Water,128000,997,61.08,3.81,54.5,Shimla Mall Road,31.1,77.17
+2023,Himachal Pradesh,North,Air,3798993,142927,2390.45,4.03,62.4,Shimla Mall Road,31.1,77.17
+2023,Himachal Pradesh,North,Train,5654654,58020,2934.24,4.04,62.5,Shimla Mall Road,31.1,77.17
+2023,Himachal Pradesh,North,Road,9015872,123344,4826.96,3.95,63.2,Shimla Mall Road,31.1,77.17
+2023,Himachal Pradesh,North,Water,177610,2126,96.95,4.01,62.9,Shimla Mall Road,31.1,77.17
+2024,Himachal Pradesh,North,Air,3753210,163597,2477.06,4.2,64.5,Shimla Mall Road,31.1,77.17
+2024,Himachal Pradesh,North,Train,5978485,71070,3240.03,4.21,64.3,Shimla Mall Road,31.1,77.17
+2024,Himachal Pradesh,North,Road,8526452,135147,4530.7,4.09,64.7,Shimla Mall Road,31.1,77.17
+2024,Himachal Pradesh,North,Water,175355,2432,97.95,4.13,64.3,Shimla Mall Road,31.1,77.17
+2019,Uttarakhand,North,Air,5691501,79027,2460.96,3.46,61.6,Rishikesh,30.07,79.02
+2019,Uttarakhand,North,Train,9056516,34295,3868.74,3.37,62.0,Rishikesh,30.07,79.02
+2019,Uttarakhand,North,Road,15257175,77036,6373.38,3.37,62.1,Rishikesh,30.07,79.02
+2019,Uttarakhand,North,Water,613299,2709,263.24,3.41,62.3,Rishikesh,30.07,79.02
+2020,Uttarakhand,North,Air,2094372,10487,735.9,2.79,33.9,Rishikesh,30.07,79.02
+2020,Uttarakhand,North,Train,2987391,4079,1135.66,2.89,32.8,Rishikesh,30.07,79.02
+2020,Uttarakhand,North,Road,5010143,9123,1758.75,2.9,33.3,Rishikesh,30.07,79.02
+2020,Uttarakhand,North,Water,223018,355,76.25,2.94,33.6,Rishikesh,30.07,79.02
+2021,Uttarakhand,North,Air,2696200,8695,1031.38,3.08,40.8,Rishikesh,30.07,79.02
+2021,Uttarakhand,North,Train,4084475,3592,1520.08,3.18,39.9,Rishikesh,30.07,79.02
+2021,Uttarakhand,North,Road,7067053,8288,2696.35,3.11,40.0,Rishikesh,30.07,79.02
+2021,Uttarakhand,North,Water,255626,262,96.25,3.16,40.2,Rishikesh,30.07,79.02
+2022,Uttarakhand,North,Air,4963214,35546,2032.82,3.16,49.9,Rishikesh,30.07,79.02
+2022,Uttarakhand,North,Train,6837802,13356,2762.14,3.26,49.3,Rishikesh,30.07,79.02
+2022,Uttarakhand,North,Road,11452398,29826,4726.41,3.31,50.4,Rishikesh,30.07,79.02
+2022,Uttarakhand,North,Water,520782,1186,211.8,3.31,49.6,Rishikesh,30.07,79.02
+2023,Uttarakhand,North,Air,6472011,68882,2851.7,3.43,60.8,Rishikesh,30.07,79.02
+2023,Uttarakhand,North,Train,9686335,28116,4064.72,3.5,60.0,Rishikesh,30.07,79.02
+2023,Uttarakhand,North,Road,17194111,66544,7138.9,3.41,60.0,Rishikesh,30.07,79.02
+2023,Uttarakhand,North,Water,725684,2457,298.97,3.4,60.6,Rishikesh,30.07,79.02
+2024,Uttarakhand,North,Air,7962299,88530,3701.07,3.63,59.6,Rishikesh,30.07,79.02
+2024,Uttarakhand,North,Train,10794374,32732,4868.67,3.55,59.7,Rishikesh,30.07,79.02
+2024,Uttarakhand,North,Road,18052455,72988,7982.81,3.54,59.2,Rishikesh,30.07,79.02
+2024,Uttarakhand,North,Water,793541,2807,359.07,3.58,59.3,Rishikesh,30.07,79.02
+2019,Jammu & Kashmir,North,Air,2709996,43046,1353.36,3.79,59.7,Dal Lake,33.78,76.58
+2019,Jammu & Kashmir,North,Train,4572996,19810,2185.37,3.88,59.5,Dal Lake,33.78,76.58
+2019,Jammu & Kashmir,North,Road,7203099,41605,3501.27,3.86,59.8,Dal Lake,33.78,76.58
+2019,Jammu & Kashmir,North,Water,456200,2305,224.07,3.77,58.9,Dal Lake,33.78,76.58
+2020,Jammu & Kashmir,North,Air,1005369,5221,398.36,3.17,33.1,Dal Lake,33.78,76.58
+2020,Jammu & Kashmir,North,Train,1570466,2224,606.64,3.16,33.7,Dal Lake,33.78,76.58
+2020,Jammu & Kashmir,North,Road,2725833,5147,1123.29,3.27,32.8,Dal Lake,33.78,76.58
+2020,Jammu & Kashmir,North,Water,158697,262,63.55,3.25,33.3,Dal Lake,33.78,76.58
+2021,Jammu & Kashmir,North,Air,1587824,4492,670.55,3.67,40.7,Dal Lake,33.78,76.58
+2021,Jammu & Kashmir,North,Train,2132987,1645,960.2,3.6,40.6,Dal Lake,33.78,76.58
+2021,Jammu & Kashmir,North,Road,3919374,4032,1699.12,3.59,39.8,Dal Lake,33.78,76.58
+2021,Jammu & Kashmir,North,Water,234712,211,102.83,3.59,39.8,Dal Lake,33.78,76.58
+2022,Jammu & Kashmir,North,Air,2458785,16774,1167.13,3.88,56.0,Dal Lake,33.78,76.58
+2022,Jammu & Kashmir,North,Train,3731921,6943,1699.86,3.91,56.4,Dal Lake,33.78,76.58
+2022,Jammu & Kashmir,North,Road,6157029,15274,2770.24,3.88,56.5,Dal Lake,33.78,76.58
+2022,Jammu & Kashmir,North,Water,376151,816,184.09,3.94,56.3,Dal Lake,33.78,76.58
+2023,Jammu & Kashmir,North,Air,3216545,32559,1660.85,4.05,62.2,Dal Lake,33.78,76.58
+2023,Jammu & Kashmir,North,Train,4782354,13202,2324.27,4.05,62.1,Dal Lake,33.78,76.58
+2023,Jammu & Kashmir,North,Road,7505119,27625,3666.6,4.05,62.1,Dal Lake,33.78,76.58
+2023,Jammu & Kashmir,North,Water,438251,1411,219.08,4.05,61.9,Dal Lake,33.78,76.58
+2024,Jammu & Kashmir,North,Air,3159876,43283,1693.76,3.77,62.6,Dal Lake,33.78,76.58
+2024,Jammu & Kashmir,North,Train,5233954,19553,2641.71,3.85,62.4,Dal Lake,33.78,76.58
+2024,Jammu & Kashmir,North,Road,8724044,43455,4148.56,3.86,62.4,Dal Lake,33.78,76.58
+2024,Jammu & Kashmir,North,Water,535630,2334,270.53,4.0,62.4,Dal Lake,33.78,76.58
+2019,Kerala,South,Air,3819663,512487,4672.05,5.24,72.5,Alleppey Backwaters,10.85,76.27
+2019,Kerala,South,Train,4508165,164962,3526.1,5.24,72.6,Alleppey Backwaters,10.85,76.27
+2019,Kerala,South,Road,8795904,429146,7546.14,5.19,72.7,Alleppey Backwaters,10.85,76.27
+2019,Kerala,South,Water,2247909,95964,1872.05,5.09,72.8,Alleppey Backwaters,10.85,76.27
+2020,Kerala,South,Air,1269350,58996,893.71,4.43,38.5,Alleppey Backwaters,10.85,76.27
+2020,Kerala,South,Train,1597849,20253,901.71,4.46,38.4,Alleppey Backwaters,10.85,76.27
+2020,Kerala,South,Road,2453404,41464,1385.64,4.33,38.4,Alleppey Backwaters,10.85,76.27
+2020,Kerala,South,Water,731926,10823,429.22,4.42,38.4,Alleppey Backwaters,10.85,76.27
+2021,Kerala,South,Air,1785043,54064,1084.09,4.37,41.5,Alleppey Backwaters,10.85,76.27
+2021,Kerala,South,Train,2234802,18459,1248.57,4.44,41.7,Alleppey Backwaters,10.85,76.27
+2021,Kerala,South,Road,4011614,44182,2302.01,4.51,41.5,Alleppey Backwaters,10.85,76.27
+2021,Kerala,South,Water,1049740,10116,586.68,4.48,41.3,Alleppey Backwaters,10.85,76.27
+2022,Kerala,South,Air,3159447,211908,2911.67,5.05,59.1,Alleppey Backwaters,10.85,76.27
+2022,Kerala,South,Train,4196285,76759,2954.56,5.13,59.1,Alleppey Backwaters,10.85,76.27
+2022,Kerala,South,Road,6448279,157270,4805.39,5.16,59.7,Alleppey Backwaters,10.85,76.27
+2022,Kerala,South,Water,1734479,37015,1250.67,5.17,58.7,Alleppey Backwaters,10.85,76.27
+2023,Kerala,South,Air,4012697,401924,4306.52,5.15,68.8,Alleppey Backwaters,10.85,76.27
+2023,Kerala,South,Train,5164958,141092,3892.22,5.2,69.3,Alleppey Backwaters,10.85,76.27
+2023,Kerala,South,Road,8023953,292256,6363.21,5.17,68.4,Alleppey Backwaters,10.85,76.27
+2023,Kerala,South,Water,2346608,74786,1789.61,5.19,69.0,Alleppey Backwaters,10.85,76.27
+2024,Kerala,South,Air,4722905,577324,6017.16,5.29,71.6,Alleppey Backwaters,10.85,76.27
+2024,Kerala,South,Train,5334875,177853,4441.6,5.5,71.8,Alleppey Backwaters,10.85,76.27
+2024,Kerala,South,Road,9467451,420834,8118.12,5.54,72.0,Alleppey Backwaters,10.85,76.27
+2024,Kerala,South,Water,2257598,87807,2045.21,5.48,72.3,Alleppey Backwaters,10.85,76.27
+2019,Tamil Nadu,South,Air,38491885,1727186,17695.51,2.79,64.4,Meenakshi Temple,11.13,78.66
+2019,Tamil Nadu,South,Train,41917498,512972,15267.92,2.8,64.7,Meenakshi Temple,11.13,78.66
+2019,Tamil Nadu,South,Road,76134585,1242279,27741.52,2.74,64.8,Meenakshi Temple,11.13,78.66
+2019,Tamil Nadu,South,Water,3157276,45077,1155.37,2.72,64.6,Meenakshi Temple,11.13,78.66
+2020,Tamil Nadu,South,Air,13068756,189482,4227.48,2.43,36.9,Meenakshi Temple,11.13,78.66
+2020,Tamil Nadu,South,Train,15439650,61052,4888.38,2.54,37.0,Meenakshi Temple,11.13,78.66
+2020,Tamil Nadu,South,Road,23855744,125775,7277.47,2.47,36.9,Meenakshi Temple,11.13,78.66
+2020,Tamil Nadu,South,Water,1108924,5115,339.02,2.46,36.9,Meenakshi Temple,11.13,78.66
+2021,Tamil Nadu,South,Air,17254196,159251,5722.15,2.55,39.9,Meenakshi Temple,11.13,78.66
+2021,Tamil Nadu,South,Train,20469251,51525,6598.95,2.5,39.8,Meenakshi Temple,11.13,78.66
+2021,Tamil Nadu,South,Road,35659223,119681,10739.61,2.48,40.3,Meenakshi Temple,11.13,78.66
+2021,Tamil Nadu,South,Water,1439479,4227,442.52,2.51,40.5,Meenakshi Temple,11.13,78.66
+2022,Tamil Nadu,South,Air,29589774,678074,11323.17,2.77,57.1,Meenakshi Temple,11.13,78.66
+2022,Tamil Nadu,South,Train,37885389,236775,13031.89,2.7,56.9,Meenakshi Temple,11.13,78.66
+2022,Tamil Nadu,South,Road,58940553,491153,20128.74,2.72,57.0,Meenakshi Temple,11.13,78.66
+2022,Tamil Nadu,South,Water,2817647,20544,954.31,2.76,56.9,Meenakshi Temple,11.13,78.66
+2023,Tamil Nadu,South,Air,37122864,1423967,15658.0,2.83,65.4,Meenakshi Temple,11.13,78.66
+2023,Tamil Nadu,South,Train,43091895,450798,15575.79,2.82,66.5,Meenakshi Temple,11.13,78.66
+2023,Tamil Nadu,South,Road,75112783,1047706,26823.49,2.88,65.8,Meenakshi Temple,11.13,78.66
+2023,Tamil Nadu,South,Water,3370829,41140,1256.08,2.82,65.9,Meenakshi Temple,11.13,78.66
+2024,Tamil Nadu,South,Air,42116807,1840482,20984.68,2.99,66.6,Meenakshi Temple,11.13,78.66
+2024,Tamil Nadu,South,Train,50619112,603280,19170.17,2.99,66.2,Meenakshi Temple,11.13,78.66
+2024,Tamil Nadu,South,Road,82372766,1308962,32249.61,3.01,67.0,Meenakshi Temple,11.13,78.66
+2024,Tamil Nadu,South,Water,3784780,52625,1629.9,2.97,67.1,Meenakshi Temple,11.13,78.66
+2019,Karnataka,South,Air,27326858,246802,10374.99,2.89,65.5,Hampi,15.32,75.71
+2019,Karnataka,South,Train,31058985,76502,11034.52,2.95,65.7,Hampi,15.32,75.71
+2019,Karnataka,South,Road,50554073,166028,17709.1,2.97,66.1,Hampi,15.32,75.71
+2019,Karnataka,South,Water,2132593,6128,771.03,2.95,66.0,Hampi,15.32,75.71
+2020,Karnataka,South,Air,9279047,29719,2982.16,2.56,37.1,Hampi,15.32,75.71
+2020,Karnataka,South,Train,11855304,10355,3574.81,2.46,36.6,Hampi,15.32,75.71
+2020,Karnataka,South,Road,18304329,21318,5593.93,2.52,37.0,Hampi,15.32,75.71
+2020,Karnataka,South,Water,801671,816,241.34,2.53,36.4,Hampi,15.32,75.71
+2021,Karnataka,South,Air,12598101,23335,3847.13,2.42,38.9,Hampi,15.32,75.71
+2021,Karnataka,South,Train,14634012,7392,4421.75,2.49,39.6,Hampi,15.32,75.71
+2021,Karnataka,South,Road,27682681,18646,8399.86,2.59,39.2,Hampi,15.32,75.71
+2021,Karnataka,South,Water,1075901,634,328.25,2.52,39.2,Hampi,15.32,75.71
+2022,Karnataka,South,Air,23050397,82007,7904.01,2.75,52.3,Hampi,15.32,75.71
+2022,Karnataka,South,Train,27799855,26974,9337.08,2.71,52.1,Hampi,15.32,75.71
+2022,Karnataka,South,Road,47157025,61008,15754.07,2.71,52.2,Hampi,15.32,75.71
+2022,Karnataka,South,Water,1921014,2174,655.59,2.58,51.8,Hampi,15.32,75.71
+2023,Karnataka,South,Air,24872125,177032,8536.88,2.73,63.0,Hampi,15.32,75.71
+2023,Karnataka,South,Train,29207192,56696,9216.47,2.74,63.0,Hampi,15.32,75.71
+2023,Karnataka,South,Road,58750304,152060,19708.39,2.67,63.1,Hampi,15.32,75.71
+2023,Karnataka,South,Water,2424957,5491,817.24,2.77,63.4,Hampi,15.32,75.71
+2024,Karnataka,South,Air,30177964,257646,11969.61,3.04,65.6,Hampi,15.32,75.71
+2024,Karnataka,South,Train,32802107,76377,12585.61,3.04,65.3,Hampi,15.32,75.71
+2024,Karnataka,South,Road,59433323,184514,23552.63,3.15,64.7,Hampi,15.32,75.71
+2024,Karnataka,South,Water,2614423,7102,949.32,3.12,64.8,Hampi,15.32,75.71
+2019,Andhra Pradesh,South,Air,22096473,139804,6498.14,2.2,60.9,Tirupati Balaji,15.91,79.74
+2019,Andhra Pradesh,South,Train,25747711,44428,6752.76,2.18,60.4,Tirupati Balaji,15.91,79.74
+2019,Andhra Pradesh,South,Road,44051859,101351,10838.56,2.12,60.1,Tirupati Balaji,15.91,79.74
+2019,Andhra Pradesh,South,Water,2813791,5664,699.89,2.13,61.0,Tirupati Balaji,15.91,79.74
+2020,Andhra Pradesh,South,Air,7669524,17850,1854.99,1.98,33.5,Tirupati Balaji,15.91,79.74
+2020,Andhra Pradesh,South,Train,9615308,6103,2182.59,1.89,33.6,Tirupati Balaji,15.91,79.74
+2020,Andhra Pradesh,South,Road,16647836,14089,3955.24,1.91,33.6,Tirupati Balaji,15.91,79.74
+2020,Andhra Pradesh,South,Water,1005120,744,240.34,1.98,34.1,Tirupati Balaji,15.91,79.74
+2021,Andhra Pradesh,South,Air,12863717,13988,2915.16,1.8,40.0,Tirupati Balaji,15.91,79.74
+2021,Andhra Pradesh,South,Train,14311025,4244,3388.21,1.84,39.8,Tirupati Balaji,15.91,79.74
+2021,Andhra Pradesh,South,Road,23946219,9469,5308.56,1.85,40.0,Tirupati Balaji,15.91,79.74
+2021,Andhra Pradesh,South,Water,1432999,495,324.25,1.97,39.6,Tirupati Balaji,15.91,79.74
+2022,Andhra Pradesh,South,Air,20960106,58644,5354.73,2.07,52.7,Tirupati Balaji,15.91,79.74
+2022,Andhra Pradesh,South,Train,24372634,18597,6277.69,2.03,52.3,Tirupati Balaji,15.91,79.74
+2022,Andhra Pradesh,South,Road,40267609,40968,9772.15,2.05,52.0,Tirupati Balaji,15.91,79.74
+2022,Andhra Pradesh,South,Water,2797392,2490,724.75,2.06,52.1,Tirupati Balaji,15.91,79.74
+2023,Andhra Pradesh,South,Air,27653104,102374,8241.83,2.32,55.8,Tirupati Balaji,15.91,79.74
+2023,Andhra Pradesh,South,Train,32567484,32882,8858.07,2.26,55.1,Tirupati Balaji,15.91,79.74
+2023,Andhra Pradesh,South,Road,51482657,69306,14335.22,2.32,55.3,Tirupati Balaji,15.91,79.74
+2023,Andhra Pradesh,South,Water,3548675,4180,959.88,2.22,55.5,Tirupati Balaji,15.91,79.74
+2024,Andhra Pradesh,South,Air,29345056,129545,7808.07,2.32,61.8,Tirupati Balaji,15.91,79.74
+2024,Andhra Pradesh,South,Train,30370743,36565,8818.03,2.31,62.2,Tirupati Balaji,15.91,79.74
+2024,Andhra Pradesh,South,Road,56475170,90659,16331.07,2.43,62.1,Tirupati Balaji,15.91,79.74
+2024,Andhra Pradesh,South,Water,4065741,5710,1167.39,2.27,62.5,Tirupati Balaji,15.91,79.74
+2019,Telangana,South,Air,13675571,139945,4126.0,2.38,66.4,Charminar,17.12,79.21
+2019,Telangana,South,Train,16537457,46154,4595.33,2.39,67.0,Charminar,17.12,79.21
+2019,Telangana,South,Road,27437897,102101,8030.18,2.44,67.1,Charminar,17.12,79.21
+2019,Telangana,South,Water,523852,1705,153.91,2.48,66.9,Charminar,17.12,79.21
+2020,Telangana,South,Air,4459929,17037,1172.22,2.07,37.4,Charminar,17.12,79.21
+2020,Telangana,South,Train,6120105,6376,1559.71,2.01,37.6,Charminar,17.12,79.21
+2020,Telangana,South,Road,9559066,13278,2539.75,2.1,37.4,Charminar,17.12,79.21
+2020,Telangana,South,Water,190677,231,47.12,2.05,37.4,Charminar,17.12,79.21
+2021,Telangana,South,Air,7066486,15479,2044.13,2.33,38.5,Charminar,17.12,79.21
+2021,Telangana,South,Train,8562163,5115,2418.19,2.31,38.5,Charminar,17.12,79.21
+2021,Telangana,South,Road,13594675,10829,3749.16,2.3,39.1,Charminar,17.12,79.21
+2021,Telangana,South,Water,323306,225,89.63,2.3,39.4,Charminar,17.12,79.21
+2022,Telangana,South,Air,11487756,44935,3380.47,2.31,56.3,Charminar,17.12,79.21
+2022,Telangana,South,Train,14758405,15744,4397.02,2.33,56.6,Charminar,17.12,79.21
+2022,Telangana,South,Road,26753822,38054,7223.16,2.45,56.7,Charminar,17.12,79.21
+2022,Telangana,South,Water,501125,623,142.37,2.39,56.1,Charminar,17.12,79.21
+2023,Telangana,South,Air,15802174,111431,4891.92,2.48,65.2,Charminar,17.12,79.21
+2023,Telangana,South,Train,19646604,37783,6253.49,2.37,65.7,Charminar,17.12,79.21
+2023,Telangana,South,Road,32965820,84532,10287.23,2.41,66.0,Charminar,17.12,79.21
+2023,Telangana,South,Water,707281,1586,217.83,2.5,65.4,Charminar,17.12,79.21
+2024,Telangana,South,Air,16950077,143433,5988.42,2.75,68.8,Charminar,17.12,79.21
+2024,Telangana,South,Train,18704328,43166,6026.84,2.67,68.4,Charminar,17.12,79.21
+2024,Telangana,South,Road,34980442,107639,11743.04,2.71,68.8,Charminar,17.12,79.21
+2024,Telangana,South,Water,739539,1991,224.02,2.65,69.3,Charminar,17.12,79.21
+2019,West Bengal,East,Air,10910287,526317,6083.67,3.41,58.8,Victoria Memorial,22.99,87.85
+2019,West Bengal,East,Train,21058836,277060,9707.87,3.44,58.8,Victoria Memorial,22.99,87.85
+2019,West Bengal,East,Road,32713002,573850,15971.1,3.44,59.6,Victoria Memorial,22.99,87.85
+2019,West Bengal,East,Water,3456920,53061,1597.42,3.53,59.0,Victoria Memorial,22.99,87.85
+2020,West Bengal,East,Air,4676421,65883,1693.19,2.76,32.3,Victoria Memorial,22.99,87.85
+2020,West Bengal,East,Train,8434140,32406,3068.8,2.85,31.6,Victoria Memorial,22.99,87.85
+2020,West Bengal,East,Road,11118786,56962,3927.47,2.84,32.9,Victoria Memorial,22.99,87.85
+2020,West Bengal,East,Water,1214352,5443,410.64,2.83,32.8,Victoria Memorial,22.99,87.85
+2021,West Bengal,East,Air,6265934,57125,2382.6,2.95,37.8,Victoria Memorial,22.99,87.85
+2021,West Bengal,East,Train,10931589,27180,3921.9,2.91,37.7,Victoria Memorial,22.99,87.85
+2021,West Bengal,East,Road,16789939,55661,6000.23,2.88,38.1,Victoria Memorial,22.99,87.85
+2021,West Bengal,East,Water,1642506,4764,571.07,2.97,37.6,Victoria Memorial,22.99,87.85
+2022,West Bengal,East,Air,10269111,215236,4788.35,3.17,53.9,Victoria Memorial,22.99,87.85
+2022,West Bengal,East,Train,20093622,114860,8097.35,3.21,53.2,Victoria Memorial,22.99,87.85
+2022,West Bengal,East,Road,24761236,188721,9449.16,3.18,53.6,Victoria Memorial,22.99,87.85
+2022,West Bengal,East,Water,3028247,20195,1256.39,3.15,53.3,Victoria Memorial,22.99,87.85
+2023,West Bengal,East,Air,11755500,346500,5289.89,3.31,59.6,Victoria Memorial,22.99,87.85
+2023,West Bengal,East,Train,23910098,192208,10074.6,3.33,59.1,Victoria Memorial,22.99,87.85
+2023,West Bengal,East,Road,33947024,363857,15311.01,3.23,59.7,Victoria Memorial,22.99,87.85
+2023,West Bengal,East,Water,3481893,32655,1393.11,3.23,59.9,Victoria Memorial,22.99,87.85
+2024,West Bengal,East,Air,15730337,616036,8411.81,3.41,62.1,Victoria Memorial,22.99,87.85
+2024,West Bengal,East,Train,27486869,293577,11809.7,3.36,62.5,Victoria Memorial,22.99,87.85
+2024,West Bengal,East,Road,35773218,509440,15435.18,3.36,62.4,Victoria Memorial,22.99,87.85
+2024,West Bengal,East,Water,4132951,51499,1880.13,3.43,62.5,Victoria Memorial,22.99,87.85
+2019,Odisha,East,Air,2917086,39707,1137.48,2.81,55.8,Konark Sun Temple,20.95,85.1
+2019,Odisha,East,Train,5598342,20783,1979.18,2.9,55.8,Konark Sun Temple,20.95,85.1
+2019,Odisha,East,Road,7687779,38052,2640.23,2.82,55.8,Konark Sun Temple,20.95,85.1
+2019,Odisha,East,Water,530204,2296,195.39,2.77,55.9,Konark Sun Temple,20.95,85.1
+2020,Odisha,East,Air,1177073,4964,350.65,2.46,31.8,Konark Sun Temple,20.95,85.1
+2020,Odisha,East,Train,2055434,2364,590.8,2.47,32.0,Konark Sun Temple,20.95,85.1
+2020,Odisha,East,Road,2787570,4275,848.53,2.5,32.3,Konark Sun Temple,20.95,85.1
+2020,Odisha,East,Water,213051,285,64.49,2.56,31.9,Konark Sun Temple,20.95,85.1
+2021,Odisha,East,Air,1412799,4068,429.79,2.48,37.3,Konark Sun Temple,20.95,85.1
+2021,Odisha,East,Train,2895050,2273,866.26,2.5,37.3,Konark Sun Temple,20.95,85.1
+2021,Odisha,East,Road,3924464,4109,1161.43,2.52,38.1,Konark Sun Temple,20.95,85.1
+2021,Odisha,East,Water,249007,228,71.14,2.51,37.0,Konark Sun Temple,20.95,85.1
+2022,Odisha,East,Air,2691787,16402,1013.65,3.02,49.2,Konark Sun Temple,20.95,85.1
+2022,Odisha,East,Train,5321088,8843,1870.67,2.97,49.6,Konark Sun Temple,20.95,85.1
+2022,Odisha,East,Road,6276334,13907,2291.48,3.02,49.1,Konark Sun Temple,20.95,85.1
+2022,Odisha,East,Water,494528,958,183.88,2.97,49.5,Konark Sun Temple,20.95,85.1
+2023,Odisha,East,Air,2881571,30955,1139.03,3.03,52.1,Konark Sun Temple,20.95,85.1
+2023,Odisha,East,Train,5897502,17278,2301.29,3.09,52.1,Konark Sun Temple,20.95,85.1
+2023,Odisha,East,Road,8254213,32244,3102.52,2.99,52.4,Konark Sun Temple,20.95,85.1
+2023,Odisha,East,Water,566318,1935,202.34,3.1,52.3,Konark Sun Temple,20.95,85.1
+2024,Odisha,East,Air,4117318,38179,1742.52,3.23,58.0,Konark Sun Temple,20.95,85.1
+2024,Odisha,East,Train,7084414,17916,2696.71,3.28,58.1,Konark Sun Temple,20.95,85.1
+2024,Odisha,East,Road,10478282,35332,4186.68,3.19,58.3,Konark Sun Temple,20.95,85.1
+2024,Odisha,East,Water,667737,1970,270.73,3.23,57.9,Konark Sun Temple,20.95,85.1
+2019,Bihar,East,Air,4851121,402984,2091.28,2.27,51.0,Bodh Gaya,25.1,85.31
+2019,Bihar,East,Train,9768913,221319,2904.71,2.15,51.0,Bodh Gaya,25.1,85.31
+2019,Bihar,East,Road,13003935,392814,4095.11,2.24,51.1,Bodh Gaya,25.1,85.31
+2019,Bihar,East,Water,575225,15204,196.95,2.14,51.3,Bodh Gaya,25.1,85.31
+2020,Bihar,East,Air,1748680,50623,408.69,1.54,28.6,Bodh Gaya,25.1,85.31
+2020,Bihar,East,Train,3575000,28225,657.28,1.58,28.8,Bodh Gaya,25.1,85.31
+2020,Bihar,East,Road,4504090,47414,877.83,1.56,28.6,Bodh Gaya,25.1,85.31
+2020,Bihar,East,Water,198488,1828,38.9,1.58,28.4,Bodh Gaya,25.1,85.31
+2021,Bihar,East,Air,2944877,42023,799.93,2.04,31.2,Bodh Gaya,25.1,85.31
+2021,Bihar,East,Train,5291427,20593,1332.11,2.03,30.8,Bodh Gaya,25.1,85.31
+2021,Bihar,East,Road,7084377,36761,1774.09,2.09,30.8,Bodh Gaya,25.1,85.31
+2021,Bihar,East,Water,307705,1397,77.46,2.0,31.3,Bodh Gaya,25.1,85.31
+2022,Bihar,East,Air,4671455,197469,1355.75,1.91,44.7,Bodh Gaya,25.1,85.31
+2022,Bihar,East,Train,8206662,94611,1957.16,1.83,44.8,Bodh Gaya,25.1,85.31
+2022,Bihar,East,Road,11704990,179922,3016.01,1.9,45.5,Bodh Gaya,25.1,85.31
+2022,Bihar,East,Water,520485,7000,136.87,1.81,45.0,Bodh Gaya,25.1,85.31
+2023,Bihar,East,Air,5471450,330192,1849.67,2.13,49.9,Bodh Gaya,25.1,85.31
+2023,Bihar,East,Train,10830000,178246,2917.99,1.93,50.5,Bodh Gaya,25.1,85.31
+2023,Bihar,East,Road,14463610,317401,4166.42,2.01,49.6,Bodh Gaya,25.1,85.31
+2023,Bihar,East,Water,682354,13102,187.99,1.94,50.5,Bodh Gaya,25.1,85.31
+2024,Bihar,East,Air,6453748,433880,2426.97,2.12,48.9,Bodh Gaya,25.1,85.31
+2024,Bihar,East,Train,12499846,229187,3521.99,2.08,49.3,Bodh Gaya,25.1,85.31
+2024,Bihar,East,Road,17560562,429303,4862.44,2.05,49.3,Bodh Gaya,25.1,85.31
+2024,Bihar,East,Water,651082,13927,186.36,2.04,49.3,Bodh Gaya,25.1,85.31
+2019,Maharashtra,West,Air,30473187,2291974,19235.08,3.41,70.0,Gateway of India,19.75,75.71
+2019,Maharashtra,West,Train,29528961,605715,12920.57,3.37,70.5,Gateway of India,19.75,75.71
+2019,Maharashtra,West,Road,54946321,1502788,26827.39,3.34,70.7,Gateway of India,19.75,75.71
+2019,Maharashtra,West,Water,4860939,116328,2375.7,3.38,70.5,Gateway of India,19.75,75.71
+2020,Maharashtra,West,Air,8995512,265949,3793.97,2.94,41.1,Gateway of India,19.75,75.71
+2020,Maharashtra,West,Train,10474535,84457,3944.94,2.9,41.0,Gateway of India,19.75,75.71
+2020,Maharashtra,West,Road,17363597,186672,6767.84,2.96,40.9,Gateway of India,19.75,75.71
+2020,Maharashtra,West,Water,1625437,15290,612.14,3.03,40.6,Gateway of India,19.75,75.71
+2021,Maharashtra,West,Air,14313833,217601,5375.93,2.88,45.1,Gateway of India,19.75,75.71
+2021,Maharashtra,West,Train,14814926,61423,5246.22,2.83,45.5,Gateway of India,19.75,75.71
+2021,Maharashtra,West,Road,27144223,150055,9779.4,2.81,45.3,Gateway of India,19.75,75.71
+2021,Maharashtra,West,Water,2317447,11209,844.74,2.86,44.9,Gateway of India,19.75,75.71
+2022,Maharashtra,West,Air,26440174,834714,12931.13,3.34,62.7,Gateway of India,19.75,75.71
+2022,Maharashtra,West,Train,28287874,243558,11839.52,3.3,62.1,Gateway of India,19.75,75.71
+2022,Maharashtra,West,Road,45628504,523814,19184.5,3.24,62.7,Gateway of India,19.75,75.71
+2022,Maharashtra,West,Water,4318368,43377,1957.74,3.4,62.0,Gateway of India,19.75,75.71
+2023,Maharashtra,West,Air,31921184,1849861,17862.45,3.44,69.2,Gateway of India,19.75,75.71
+2023,Maharashtra,West,Train,38722685,612003,17307.87,3.35,68.2,Gateway of India,19.75,75.71
+2023,Maharashtra,West,Road,59440136,1252585,27943.15,3.38,68.4,Gateway of India,19.75,75.71
+2023,Maharashtra,West,Water,5743225,105898,2711.6,3.39,68.6,Gateway of India,19.75,75.71
+2024,Maharashtra,West,Air,36483545,2409821,22520.03,3.51,73.1,Gateway of India,19.75,75.71
+2024,Maharashtra,West,Train,35898126,646678,17321.38,3.52,72.4,Gateway of India,19.75,75.71
+2024,Maharashtra,West,Road,62711046,1506257,32092.11,3.34,73.1,Gateway of India,19.75,75.71
+2024,Maharashtra,West,Water,5712944,120066,2854.09,3.47,72.9,Gateway of India,19.75,75.71
+2019,Gujarat,West,Air,11286552,330540,4767.3,2.85,59.6,Statue of Unity,22.26,71.19
+2019,Gujarat,West,Train,11461663,91545,4050.97,2.77,60.5,Statue of Unity,22.26,71.19
+2019,Gujarat,West,Road,19439877,207025,6798.99,2.89,60.1,Statue of Unity,22.26,71.19
+2019,Gujarat,West,Water,843178,7857,293.89,2.78,59.9,Statue of Unity,22.26,71.19
+2020,Gujarat,West,Air,3922245,37559,1020.39,2.18,32.8,Statue of Unity,22.26,71.19
+2020,Gujarat,West,Train,3917567,10231,1002.85,1.99,32.6,Statue of Unity,22.26,71.19
+2020,Gujarat,West,Road,6807616,23705,1752.26,2.03,33.1,Statue of Unity,22.26,71.19
+2020,Gujarat,West,Water,299561,912,73.61,2.06,32.6,Statue of Unity,22.26,71.19
+2021,Gujarat,West,Air,5544458,28647,1604.78,2.39,38.6,Statue of Unity,22.26,71.19
+2021,Gujarat,West,Train,6348907,8946,1794.49,2.36,39.2,Statue of Unity,22.26,71.19
+2021,Gujarat,West,Road,10304733,19361,2831.26,2.39,38.1,Statue of Unity,22.26,71.19
+2021,Gujarat,West,Water,449788,739,129.37,2.43,38.8,Statue of Unity,22.26,71.19
+2022,Gujarat,West,Air,9524967,115813,3091.08,2.47,53.7,Statue of Unity,22.26,71.19
+2022,Gujarat,West,Train,10522507,34893,3340.53,2.55,53.9,Statue of Unity,22.26,71.19
+2022,Gujarat,West,Road,17715207,78326,5592.9,2.56,53.7,Statue of Unity,22.26,71.19
+2022,Gujarat,West,Water,748372,2895,234.06,2.51,54.3,Statue of Unity,22.26,71.19
+2023,Gujarat,West,Air,11581036,225044,4493.97,2.76,62.0,Statue of Unity,22.26,71.19
+2023,Gujarat,West,Train,14167070,75080,5073.92,2.76,62.4,Statue of Unity,22.26,71.19
+2023,Gujarat,West,Road,21933635,154988,7913.24,2.73,62.4,Statue of Unity,22.26,71.19
+2023,Gujarat,West,Water,923394,5709,309.71,2.75,62.5,Statue of Unity,22.26,71.19
+2024,Gujarat,West,Air,13206535,282447,5132.82,2.75,64.8,Statue of Unity,22.26,71.19
+2024,Gujarat,West,Train,14117019,82341,4832.27,2.81,64.3,Statue of Unity,22.26,71.19
+2024,Gujarat,West,Road,25741973,200196,9099.81,2.81,64.3,Statue of Unity,22.26,71.19
+2024,Gujarat,West,Water,966180,6574,348.14,2.72,64.5,Statue of Unity,22.26,71.19
+2019,Goa,West,Air,1872363,439115,2937.12,4.67,78.1,Baga Beach,15.3,74.12
+2019,Goa,West,Train,2058061,131636,1662.79,4.78,78.7,Baga Beach,15.3,74.12
+2019,Goa,West,Road,3675485,313451,3453.53,4.75,77.7,Baga Beach,15.3,74.12
+2019,Goa,West,Water,689333,51439,576.33,4.69,77.5,Baga Beach,15.3,74.12
+2020,Goa,West,Air,612450,57052,522.28,4.11,41.6,Baga Beach,15.3,74.12
+2020,Goa,West,Train,664123,16872,374.22,4.02,41.6,Baga Beach,15.3,74.12
+2020,Goa,West,Road,1153650,39079,716.13,4.05,41.6,Baga Beach,15.3,74.12
+2020,Goa,West,Water,207711,6156,125.66,4.01,41.4,Baga Beach,15.3,74.12
+2021,Goa,West,Air,1003679,46084,673.54,4.26,44.8,Baga Beach,15.3,74.12
+2021,Goa,West,Train,1068271,13377,605.79,4.25,45.0,Baga Beach,15.3,74.12
+2021,Goa,West,Road,1681330,28072,965.28,4.28,45.0,Baga Beach,15.3,74.12
+2021,Goa,West,Water,311880,4556,171.81,4.15,45.2,Baga Beach,15.3,74.12
+2022,Goa,West,Air,1595527,154477,1495.86,4.65,62.8,Baga Beach,15.3,74.12
+2022,Goa,West,Train,1698012,44836,1148.86,4.68,62.7,Baga Beach,15.3,74.12
+2022,Goa,West,Road,3063420,107853,2186.44,4.62,62.7,Baga Beach,15.3,74.12
+2022,Goa,West,Water,512850,15798,352.45,4.65,62.9,Baga Beach,15.3,74.12
+2023,Goa,West,Air,2052727,341155,2693.6,4.86,72.3,Baga Beach,15.3,74.12
+2023,Goa,West,Train,2235112,101309,1848.67,4.79,72.4,Baga Beach,15.3,74.12
+2023,Goa,West,Road,4038081,244041,3303.84,4.79,72.4,Baga Beach,15.3,74.12
+2023,Goa,West,Water,669489,35403,553.02,4.82,72.7,Baga Beach,15.3,74.12
+2024,Goa,West,Air,2282326,431209,3262.8,4.99,80.5,Baga Beach,15.3,74.12
+2024,Goa,West,Train,2461105,126814,2085.32,4.94,80.2,Baga Beach,15.3,74.12
+2024,Goa,West,Road,3991217,274210,3640.98,5.01,80.7,Baga Beach,15.3,74.12
+2024,Goa,West,Water,828883,49828,701.7,5.02,80.3,Baga Beach,15.3,74.12
+2019,Madhya Pradesh,Central,Air,7068550,102742,2357.91,2.53,60.7,Khajuraho Temples,22.97,78.66
+2019,Madhya Pradesh,Central,Train,18222158,72235,5585.21,2.55,60.6,Khajuraho Temples,22.97,78.66
+2019,Madhya Pradesh,Central,Road,37825121,199924,12217.86,2.57,61.1,Khajuraho Temples,22.97,78.66
+2019,Madhya Pradesh,Central,Water,528169,2442,170.66,2.59,60.8,Khajuraho Temples,22.97,78.66
+2020,Madhya Pradesh,Central,Air,2714345,13192,724.78,2.05,29.9,Khajuraho Temples,22.97,78.66
+2020,Madhya Pradesh,Central,Train,7439137,9861,1774.48,1.97,29.7,Khajuraho Temples,22.97,78.66
+2020,Madhya Pradesh,Central,Road,14282360,25243,3534.46,1.93,29.6,Khajuraho Temples,22.97,78.66
+2020,Madhya Pradesh,Central,Water,244397,377,60.09,2.01,29.4,Khajuraho Temples,22.97,78.66
+2021,Madhya Pradesh,Central,Air,4025418,12019,1136.83,2.24,37.0,Khajuraho Temples,22.97,78.66
+2021,Madhya Pradesh,Central,Train,9407053,7660,2642.76,2.33,37.2,Khajuraho Temples,22.97,78.66
+2021,Madhya Pradesh,Central,Road,18037631,19584,4804.47,2.26,36.7,Khajuraho Temples,22.97,78.66
+2021,Madhya Pradesh,Central,Water,328501,312,89.48,2.23,36.3,Khajuraho Temples,22.97,78.66
+2022,Madhya Pradesh,Central,Air,6216044,42010,1917.12,2.31,50.4,Khajuraho Temples,22.97,78.66
+2022,Madhya Pradesh,Central,Train,16636908,30665,4496.15,2.23,50.8,Khajuraho Temples,22.97,78.66
+2022,Madhya Pradesh,Central,Road,32032152,78722,8737.62,2.24,50.3,Khajuraho Temples,22.97,78.66
+2022,Madhya Pradesh,Central,Water,569715,1225,159.04,2.25,50.2,Khajuraho Temples,22.97,78.66
+2023,Madhya Pradesh,Central,Air,9633020,93711,3212.39,2.65,55.4,Khajuraho Temples,22.97,78.66
+2023,Madhya Pradesh,Central,Train,22774770,60424,7212.78,2.63,55.0,Khajuraho Temples,22.97,78.66
+2023,Madhya Pradesh,Central,Road,41846306,148031,13787.59,2.54,55.8,Khajuraho Temples,22.97,78.66
+2023,Madhya Pradesh,Central,Water,761916,2358,244.49,2.65,55.9,Khajuraho Temples,22.97,78.66
+2024,Madhya Pradesh,Central,Air,8319910,109314,2647.55,2.53,60.5,Khajuraho Temples,22.97,78.66
+2024,Madhya Pradesh,Central,Train,21116436,75667,6432.07,2.59,60.7,Khajuraho Temples,22.97,78.66
+2024,Madhya Pradesh,Central,Road,40469839,193355,12904.12,2.4,60.0,Khajuraho Temples,22.97,78.66
+2024,Madhya Pradesh,Central,Water,676666,2828,226.12,2.53,59.8,Khajuraho Temples,22.97,78.66
+2019,Chhattisgarh,Central,Air,1486808,14354,438.65,2.15,55.8,Chitrakote Falls,21.28,81.87
+2019,Chhattisgarh,Central,Train,3699662,9741,1043.07,2.29,55.5,Chitrakote Falls,21.28,81.87
+2019,Chhattisgarh,Central,Road,7270168,25524,2064.37,2.27,56.4,Chitrakote Falls,21.28,81.87
+2019,Chhattisgarh,Central,Water,136278,418,36.43,2.2,55.6,Chitrakote Falls,21.28,81.87
+2020,Chhattisgarh,Central,Air,474286,1590,110.7,1.84,25.8,Chitrakote Falls,21.28,81.87
+2020,Chhattisgarh,Central,Train,1135504,1038,252.69,1.89,25.6,Chitrakote Falls,21.28,81.87
+2020,Chhattisgarh,Central,Road,2468626,3009,554.16,1.84,25.5,Chitrakote Falls,21.28,81.87
+2020,Chhattisgarh,Central,Water,39225,41,8.77,1.94,25.5,Chitrakote Falls,21.28,81.87
+2021,Chhattisgarh,Central,Air,686050,1493,162.91,1.99,34.9,Chitrakote Falls,21.28,81.87
+2021,Chhattisgarh,Central,Train,1997475,1185,444.68,1.95,35.2,Chitrakote Falls,21.28,81.87
+2021,Chhattisgarh,Central,Road,3346765,2649,771.07,1.94,36.0,Chitrakote Falls,21.28,81.87
+2021,Chhattisgarh,Central,Water,70379,48,16.86,1.99,35.4,Chitrakote Falls,21.28,81.87
+2022,Chhattisgarh,Central,Air,1355885,5951,363.77,2.11,43.0,Chitrakote Falls,21.28,81.87
+2022,Chhattisgarh,Central,Train,3099546,3710,791.76,2.07,42.9,Chitrakote Falls,21.28,81.87
+2022,Chhattisgarh,Central,Road,6242302,9962,1514.19,1.96,42.9,Chitrakote Falls,21.28,81.87
+2022,Chhattisgarh,Central,Water,105886,147,26.85,2.13,43.3,Chitrakote Falls,21.28,81.87
+2023,Chhattisgarh,Central,Air,1756495,11324,483.59,2.29,52.1,Chitrakote Falls,21.28,81.87
+2023,Chhattisgarh,Central,Train,4186253,7360,1136.01,2.24,52.9,Chitrakote Falls,21.28,81.87
+2023,Chhattisgarh,Central,Road,7957515,18655,2161.15,2.13,52.5,Chitrakote Falls,21.28,81.87
+2023,Chhattisgarh,Central,Water,128694,263,34.51,2.25,52.4,Chitrakote Falls,21.28,81.87
+2024,Chhattisgarh,Central,Air,1843725,16221,539.83,2.21,52.2,Chitrakote Falls,21.28,81.87
+2024,Chhattisgarh,Central,Train,4320033,10365,1193.31,2.13,52.9,Chitrakote Falls,21.28,81.87
+2024,Chhattisgarh,Central,Road,7923507,25349,2098.52,2.16,52.6,Chitrakote Falls,21.28,81.87
+2024,Chhattisgarh,Central,Water,155079,434,41.84,2.18,53.0,Chitrakote Falls,21.28,81.87
+2019,Assam,North-East,Air,1860700,60226,909.88,3.5,56.2,Kaziranga National Park,26.2,92.94
+2019,Assam,North-East,Train,407930,3601,192.96,3.45,56.0,Kaziranga National Park,26.2,92.94
+2019,Assam,North-East,Road,3213467,37822,1530.82,3.6,56.2,Kaziranga National Park,26.2,92.94
+2019,Assam,North-East,Water,410844,4231,183.93,3.56,55.7,Kaziranga National Park,26.2,92.94
+2020,Assam,North-East,Air,600041,6616,235.04,3.11,32.7,Kaziranga National Park,26.2,92.94
+2020,Assam,North-East,Train,144199,433,55.02,2.97,33.2,Kaziranga National Park,26.2,92.94
+2020,Assam,North-East,Road,1074729,4309,397.8,2.97,32.8,Kaziranga National Park,26.2,92.94
+2020,Assam,North-East,Water,124689,437,46.7,3.07,33.1,Kaziranga National Park,26.2,92.94
+2021,Assam,North-East,Air,1007817,6119,419.39,3.28,33.1,Kaziranga National Park,26.2,92.94
+2021,Assam,North-East,Train,250100,414,97.31,3.27,33.0,Kaziranga National Park,26.2,92.94
+2021,Assam,North-East,Road,1547058,3415,604.29,3.25,33.6,Kaziranga National Park,26.2,92.94
+2021,Assam,North-East,Water,203436,393,78.83,3.15,32.7,Kaziranga National Park,26.2,92.94
+2022,Assam,North-East,Air,1554234,21201,692.15,3.3,47.2,Kaziranga National Park,26.2,92.94
+2022,Assam,North-East,Train,353940,1316,142.24,3.32,47.5,Kaziranga National Park,26.2,92.94
+2022,Assam,North-East,Road,2565581,12726,1025.42,3.3,46.8,Kaziranga National Park,26.2,92.94
+2022,Assam,North-East,Water,369323,1603,152.02,3.34,47.3,Kaziranga National Park,26.2,92.94
+2023,Assam,North-East,Air,2284277,43738,1173.99,3.6,55.5,Kaziranga National Park,26.2,92.94
+2023,Assam,North-East,Train,521752,2724,229.06,3.63,55.0,Kaziranga National Park,26.2,92.94
+2023,Assam,North-East,Road,3758881,26171,1762.78,3.71,55.2,Kaziranga National Park,26.2,92.94
+2023,Assam,North-East,Water,514651,3135,216.98,3.57,55.6,Kaziranga National Park,26.2,92.94
+2024,Assam,North-East,Air,2386582,58741,1309.01,3.74,58.5,Kaziranga National Park,26.2,92.94
+2024,Assam,North-East,Train,537835,3610,267.69,3.77,58.9,Kaziranga National Park,26.2,92.94
+2024,Assam,North-East,Road,3942402,35285,1903.46,3.73,58.6,Kaziranga National Park,26.2,92.94
+2024,Assam,North-East,Water,492466,3856,245.15,3.78,58.1,Kaziranga National Park,26.2,92.94
+2019,Sikkim,North-East,Air,545849,41349,447.53,4.19,62.0,Tsomgo Lake,27.53,88.51
+2019,Sikkim,North-East,Train,117866,2435,70.06,4.23,61.7,Tsomgo Lake,27.53,88.51
+2019,Sikkim,North-East,Road,809245,22291,491.86,4.27,61.4,Tsomgo Lake,27.53,88.51
+2019,Sikkim,North-East,Water,14123,340,8.03,4.25,61.9,Tsomgo Lake,27.53,88.51
+2020,Sikkim,North-East,Air,186949,4455,95.72,3.84,33.1,Tsomgo Lake,27.53,88.51
+2020,Sikkim,North-East,Train,41785,271,20.01,3.8,33.0,Tsomgo Lake,27.53,88.51
+2020,Sikkim,North-East,Road,300396,2603,148.31,3.8,33.0,Tsomgo Lake,27.53,88.51
+2020,Sikkim,North-East,Water,5954,45,2.96,3.89,34.1,Tsomgo Lake,27.53,88.51
+2021,Sikkim,North-East,Air,272601,3688,137.67,4.06,41.1,Tsomgo Lake,27.53,88.51
+2021,Sikkim,North-East,Train,56190,207,28.53,4.11,40.5,Tsomgo Lake,27.53,88.51
+2021,Sikkim,North-East,Road,424367,2087,212.87,4.06,40.2,Tsomgo Lake,27.53,88.51
+2021,Sikkim,North-East,Water,7608,32,3.69,4.1,40.8,Tsomgo Lake,27.53,88.51
+2022,Sikkim,North-East,Air,427642,15345,276.99,4.25,52.3,Tsomgo Lake,27.53,88.51
+2022,Sikkim,North-East,Train,100298,981,57.96,4.24,52.8,Tsomgo Lake,27.53,88.51
+2022,Sikkim,North-East,Road,683597,8919,361.2,4.17,52.9,Tsomgo Lake,27.53,88.51
+2022,Sikkim,North-East,Water,12914,147,7.15,4.12,52.9,Tsomgo Lake,27.53,88.51
+2023,Sikkim,North-East,Air,598990,32615,458.6,4.35,60.1,Tsomgo Lake,27.53,88.51
+2023,Sikkim,North-East,Train,123488,1833,74.6,4.39,60.5,Tsomgo Lake,27.53,88.51
+2023,Sikkim,North-East,Road,875466,17334,503.65,4.39,60.6,Tsomgo Lake,27.53,88.51
+2023,Sikkim,North-East,Water,16164,280,9.96,4.38,61.1,Tsomgo Lake,27.53,88.51
+2024,Sikkim,North-East,Air,573403,33377,439.04,4.55,65.6,Tsomgo Lake,27.53,88.51
+2024,Sikkim,North-East,Train,133738,2123,79.35,4.55,65.5,Tsomgo Lake,27.53,88.51
+2024,Sikkim,North-East,Road,1025304,21702,671.34,4.61,65.4,Tsomgo Lake,27.53,88.51
+2024,Sikkim,North-East,Water,18265,338,11.29,4.59,65.4,Tsomgo Lake,27.53,88.51
+2019,Meghalaya,North-East,Air,426336,23917,271.6,3.82,56.2,Living Root Bridges,25.47,91.37
+2019,Meghalaya,North-East,Train,90162,1379,42.13,3.77,56.3,Living Root Bridges,25.47,91.37
+2019,Meghalaya,North-East,Road,700576,14292,358.84,3.68,56.6,Living Root Bridges,25.47,91.37
+2019,Meghalaya,North-East,Water,11179,199,5.47,3.7,56.7,Living Root Bridges,25.47,91.37
+2020,Meghalaya,North-East,Air,139252,2759,59.22,3.05,31.6,Living Root Bridges,25.47,91.37
+2020,Meghalaya,North-East,Train,32709,176,13.15,3.06,31.5,Living Root Bridges,25.47,91.37
+2020,Meghalaya,North-East,Road,227048,1636,88.02,3.11,31.8,Living Root Bridges,25.47,91.37
+2020,Meghalaya,North-East,Water,4049,25,1.59,3.0,31.5,Living Root Bridges,25.47,91.37
+2021,Meghalaya,North-East,Air,218289,2375,96.37,3.18,37.1,Living Root Bridges,25.47,91.37
+2021,Meghalaya,North-East,Train,54278,161,21.13,3.27,37.3,Living Root Bridges,25.47,91.37
+2021,Meghalaya,North-East,Road,350297,1386,147.7,3.32,37.6,Living Root Bridges,25.47,91.37
+2021,Meghalaya,North-East,Water,6723,23,2.72,3.29,37.2,Living Root Bridges,25.47,91.37
+2022,Meghalaya,North-East,Air,364727,8959,195.01,3.72,50.5,Living Root Bridges,25.47,91.37
+2022,Meghalaya,North-East,Train,81769,547,39.24,3.72,50.2,Living Root Bridges,25.47,91.37
+2022,Meghalaya,North-East,Road,599551,5355,285.02,3.73,50.6,Living Root Bridges,25.47,91.37
+2022,Meghalaya,North-East,Water,8925,69,4.25,3.78,50.2,Living Root Bridges,25.47,91.37
+2023,Meghalaya,North-East,Air,464400,20833,300.06,3.75,53.9,Living Root Bridges,25.47,91.37
+2023,Meghalaya,North-East,Train,107322,1313,51.59,3.9,54.1,Living Root Bridges,25.47,91.37
+2023,Meghalaya,North-East,Road,743865,12134,382.21,3.8,54.0,Living Root Bridges,25.47,91.37
+2023,Meghalaya,North-East,Water,13689,195,6.89,3.94,54.7,Living Root Bridges,25.47,91.37
+2024,Meghalaya,North-East,Air,481679,24968,298.43,3.77,58.0,Living Root Bridges,25.47,91.37
+2024,Meghalaya,North-East,Train,110834,1566,54.31,3.66,57.9,Living Root Bridges,25.47,91.37
+2024,Meghalaya,North-East,Road,785440,14805,414.96,3.68,58.1,Living Root Bridges,25.47,91.37
+2024,Meghalaya,North-East,Water,12916,213,6.57,3.77,58.2,Living Root Bridges,25.47,91.37
